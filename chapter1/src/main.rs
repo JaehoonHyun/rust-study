@@ -43,7 +43,6 @@ fn main() {
             },
             Ordering::Greater => println!("Too Big"),
         }
+
     }
-
-
 }
